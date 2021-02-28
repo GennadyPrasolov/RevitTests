@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Users\Giena\source\repos\RevitTestsPlugin\RevitTestsPlugin\bin\Debug</Assembly>
+		<ClientId>502fe383-2648-4e98-adf8-5e6047f9dc34</ClientId>
+		<FullClassName>RevitHelloWorld</FullClassName>
+		<Text>HelloWorld</Text>
+		<VendorId>Giena</VendorId>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+	</AddIn>
+</RevitAddIns>

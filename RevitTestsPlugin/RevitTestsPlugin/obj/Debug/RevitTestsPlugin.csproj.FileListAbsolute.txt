@@ -1,0 +1,6 @@
+C:\Users\Giena\source\repos\RevitTestsPlugin\RevitTestsPlugin\bin\Debug\RevitTestsPlugin.dll
+C:\Users\Giena\source\repos\RevitTestsPlugin\RevitTestsPlugin\bin\Debug\RevitTestsPlugin.pdb
+C:\Users\Giena\source\repos\RevitTestsPlugin\RevitTestsPlugin\obj\Debug\RevitTestsPlugin.csprojAssemblyReference.cache
+C:\Users\Giena\source\repos\RevitTestsPlugin\RevitTestsPlugin\obj\Debug\RevitTestsPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Giena\source\repos\RevitTestsPlugin\RevitTestsPlugin\obj\Debug\RevitTestsPlugin.dll
+C:\Users\Giena\source\repos\RevitTestsPlugin\RevitTestsPlugin\obj\Debug\RevitTestsPlugin.pdb
